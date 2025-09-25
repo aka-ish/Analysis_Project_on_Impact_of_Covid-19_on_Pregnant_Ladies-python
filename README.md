@@ -3,6 +3,7 @@
 This project explores the impact of the COVID-19 pandemic on pregnant women, with a particular focus on psychological health, perceived threats, and birth outcomes. The dataset contains information about maternal demographics, mental health measures, perceived risks during the pandemic, and infant outcomes.
 
 ---
+<img width="1384" height="541" alt="image" src="https://github.com/user-attachments/assets/0fdfd239-7f94-46fa-b2fe-0d69cc9102fe" />
 
 ## 📂 Project Overview
 
