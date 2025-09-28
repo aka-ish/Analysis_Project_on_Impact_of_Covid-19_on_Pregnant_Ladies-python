@@ -1,13 +1,11 @@
-# Effect of COVID-19 on Pregnant Women
+📊 Impact of Covid-19 on Pregnant Women – Data Analysis Project
 
-This project explores the impact of the COVID-19 pandemic on pregnant women, with a particular focus on psychological health, perceived threats, and birth outcomes. The dataset contains information about maternal demographics, mental health measures, perceived risks during the pandemic, and infant outcomes.
+📌 Project Overview
+
+This project analyzes a dataset of 10,772 pregnant women to understand the impact of the COVID-19 pandemic on maternal health, mental well-being, and birth outcomes. The focus is on exploring relationships between maternal age, education, household income, depression, anxiety levels, and mental health indicators.
 
 ---
 <img width="1384" height="541" alt="image" src="https://github.com/user-attachments/assets/0fdfd239-7f94-46fa-b2fe-0d69cc9102fe" />
-
-## 📂 Project Overview
-
-The project is implemented in **Python**, making use of well-known data analysis and visualization libraries to gain insights from the dataset. Analyses include descriptive statistics, data visualizations, and potential correlations between maternal health factors and birth outcomes.
 
 ---
 
@@ -66,8 +64,6 @@ The project uses the following Python libraries:
 * **Pandas** → Data manipulation and cleaning.
 * **Matplotlib** → Data visualization (basic plots).
 * **Seaborn** → Advanced and aesthetic statistical visualizations.
-* **Plotly** → Interactive visualizations.
-
 ---
 
 ## 📈 Key Analyses
@@ -93,11 +89,13 @@ The project uses the following Python libraries:
    * Distribution of perceived maternal and fetal risks during COVID-19.
    * Associations with mental health outcomes (EPDS, PROMIS_Anxiety).
 
-5. **Birth Outcomes Analysis**
+5. **Maternal Mental Health
+     *EPDS (Depression Scale):
+     *Women aged 25–38 generally had low depression/anxiety levels, indicating a safer reproductive window.
+     *Women conceiving after 42 showed significantly higher risk of postnatal depression and anxiety.
 
-   * Relationship between psychological health and gestational age.
-   * Infant weight and length distributions.
-   * Effect of delivery mode on birth outcomes.
+ 6. **PROMIS Anxiety:
+       * Higher scores correlated with lower household income and increased perception of life threat during the pandemic.
 
 ---
 
@@ -107,33 +105,6 @@ The project uses the following Python libraries:
 * Heatmap of correlations between **EPDS, Anxiety, Threat Perceptions, and Birth Outcomes**.
 * Boxplots comparing **Anxiety Levels** across education categories.
 * Interactive plots of **Birth Outcomes over Time (Delivery_Date)**.
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-Ensure you have Python 3.8+ installed with the following libraries:
-
-```bash
-pip install numpy pandas matplotlib seaborn plotly
-```
-
-### Running the Project
-
-1. Clone this repository.
-2. Place the dataset in the project directory.
-3. Open the Jupyter Notebook or Python script.
-4. Run the analysis cells step by step.
-
----
-
-## 📌 Future Work
-
-* Build predictive models to study **risk of depression/anxiety** based on socioeconomic and pandemic-related factors.
-* Expand visualizations for deeper insights into subgroup differences.
-* Explore time-series patterns using **delivery dates**.
 
 ---
 
