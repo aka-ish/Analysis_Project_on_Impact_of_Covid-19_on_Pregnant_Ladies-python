@@ -89,12 +89,12 @@ The project uses the following Python libraries:
    * Distribution of perceived maternal and fetal risks during COVID-19.
    * Associations with mental health outcomes (EPDS, PROMIS_Anxiety).
 
-5. **Maternal Mental Health
-     *EPDS (Depression Scale):
-     *Women aged 25–38 generally had low depression/anxiety levels, indicating a safer reproductive window.
-     *Women conceiving after 42 showed significantly higher risk of postnatal depression and anxiety.
+5. **Maternal Mental Health**
+     **EPDS (Depression Scale)**
+     * Women aged 25–38 generally had low depression/anxiety levels, indicating a safer reproductive window.
+     * Women conceiving after 42 showed significantly higher risk of postnatal depression and anxiety.
 
- 6. **PROMIS Anxiety:
+ 6. ** PROMIS Anxiety**
        * Higher scores correlated with lower household income and increased perception of life threat during the pandemic.
 
 ---
